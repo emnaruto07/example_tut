@@ -7,7 +7,7 @@
 ?>
 
 <article>
-    <h1>Homepage</h1>
+    <h1>View by Keywords</h1>
     
 </article>
 

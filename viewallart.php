@@ -7,7 +7,7 @@
 ?>
 
 <article>
-    <h1>Homepage</h1>
+    <h1>View by Arts</h1>
     
 </article>
 
