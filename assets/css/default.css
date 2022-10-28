@@ -10,6 +10,7 @@ body{
 
     font-family: 'Source Sans Pro', sans-serif;
     background-color: white;
+    /* text-align: center; */
 
 }
 
@@ -23,7 +24,8 @@ header{
 }
 
 header h1{
-    color: white
+    color: white;
+    /* text-align: center; */
     
 }
 
@@ -67,6 +69,7 @@ li a{
                              "nav"  
                              "footer";
         grid-template-columns: 1fr;
+        /* text-align: none; */
     }
 
     nav > ul{

@@ -1,6 +1,6 @@
 <nav>
     <ul>
-        <li><a href="homepage.php">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li><a href="viewallart.php">Browse all art</a></li>
         <li><a href="viewbyartist.php">Browse by artist</a></li>
         <li><a href="viewbykeywords.php">Keywords</a></li>
